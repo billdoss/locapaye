@@ -1,11 +1,13 @@
 {
   "name": "locapaye",
   "version": "0.0.0",
+  "homepage": "https://billdoss.github.io/locapaye",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build",
+    "build": "ng build --output-path=docs --base-href=/locapaye/",
     "watch": "ng build --watch --configuration development",
+    "deploy": "npm run build && git add . && git commit -m 'deploy' && git push",
     "test": "ng test"
   },
   "prettier": {
