@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1762054083659,
+  "timestamp": 1762056378677,
   "index": "/locapaye/index.html",
   "assetGroups": [
     {
@@ -13,10 +13,10 @@
       "urls": [
         "/locapaye/favicon.ico",
         "/locapaye/index.html",
-        "/locapaye/main-BWLMMFXD.js",
+        "/locapaye/main-6YXPPQF5.js",
         "/locapaye/manifest.webmanifest",
         "/locapaye/polyfills-5CFQRCPP.js",
-        "/locapaye/styles-OKQS2KS4.css"
+        "/locapaye/styles-KHKOELAT.css"
       ],
       "patterns": []
     },
@@ -51,11 +51,11 @@
     "/locapaye/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "/locapaye/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/locapaye/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/locapaye/index.html": "811d72152083beb904c4de736441fe167e02fabf",
-    "/locapaye/main-BWLMMFXD.js": "aa1a677a327896ce9ae0cc42e415d580e08ba335",
+    "/locapaye/index.html": "9f974667926478ca810723402cee6e868315c980",
+    "/locapaye/main-6YXPPQF5.js": "d0b184b089b287245ceb3d39963f2f43a508bef2",
     "/locapaye/manifest.webmanifest": "84eff484c66200b74c91bc826fd5ac79490ba226",
     "/locapaye/polyfills-5CFQRCPP.js": "f2241e9a25858f895ce299d15f6f22e849e2fd72",
-    "/locapaye/styles-OKQS2KS4.css": "04742e420ff6bcd910538b90b9eed4a971b3009d"
+    "/locapaye/styles-KHKOELAT.css": "a768fedcfaa1c252a45a967913b365dfc28b0117"
   },
   "navigationUrls": [
     {
