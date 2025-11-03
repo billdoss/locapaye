@@ -378,7 +378,7 @@ License: "Apache-2.0"
 
 
 --------------------------------------------------------------------------------
-Package: @angular/forms
+Package: @angular/animations
 License: "MIT"
 
 The MIT License
@@ -429,7 +429,7 @@ License: "Apache-2.0"
 
 
 --------------------------------------------------------------------------------
-Package: @angular/animations
+Package: @angular/forms
 License: "MIT"
 
 The MIT License
