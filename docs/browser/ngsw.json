@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1762198312016,
+  "timestamp": 1762198532563,
   "index": "/locapaye/index.html",
   "assetGroups": [
     {
@@ -37,7 +37,7 @@
     "/locapaye/assets/images/logo.png": "b71006c13f035e635e9c37b4539436b21950c35c",
     "/locapaye/index.html": "629898a3c1f05f96fc0a0e514e6a29a7ed541a3e",
     "/locapaye/main-DJWGXQST.js": "8822ae4d24ff617b5dbc019d6bdea8817385aeac",
-    "/locapaye/manifest.webmanifest": "2a89c3f844a719fef1ea574779ba4ac5b741be1e",
+    "/locapaye/manifest.webmanifest": "c271d127005df0054d19cd173d18dde7090e4f52",
     "/locapaye/polyfills-5CFQRCPP.js": "f2241e9a25858f895ce299d15f6f22e849e2fd72",
     "/locapaye/styles-KHKOELAT.css": "a768fedcfaa1c252a45a967913b365dfc28b0117"
   },
