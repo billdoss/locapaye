@@ -1,0 +1,63 @@
+{
+  "configVersion": 1,
+  "timestamp": 1762208300257,
+  "index": "/locapaye/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/locapaye/index.html",
+        "/locapaye/main-U2GCPNMT.js",
+        "/locapaye/manifest.webmanifest",
+        "/locapaye/polyfills-5CFQRCPP.js",
+        "/locapaye/styles-KHKOELAT.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/locapaye/assets/images/logo.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/locapaye/assets/images/logo.png": "b71006c13f035e635e9c37b4539436b21950c35c",
+    "/locapaye/index.html": "e3b851243dc467b8978c7c2b67b90bf3cc585987",
+    "/locapaye/main-U2GCPNMT.js": "b35b96bf744b9ac1c1973a3b5dcd3ccb4b71af56",
+    "/locapaye/manifest.webmanifest": "aeabd106e64f1ab7f6a6c97774085a44e68ccaa5",
+    "/locapaye/polyfills-5CFQRCPP.js": "f2241e9a25858f895ce299d15f6f22e849e2fd72",
+    "/locapaye/styles-KHKOELAT.css": "a768fedcfaa1c252a45a967913b365dfc28b0117"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
