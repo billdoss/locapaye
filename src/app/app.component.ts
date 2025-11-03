@@ -1,5 +1,6 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { RouterLink, RouterOutlet } from '@angular/router';
+import { MessagingService } from './services/messaging.service';
 
 @Component({
   selector: 'app-root',
@@ -15,4 +16,10 @@ import { RouterLink, RouterOutlet } from '@angular/router';
   </div>
   `
 })
-export class AppComponent {}
+export class AppComponent implements OnInit {
+  constructor(private messagingService: MessagingService) {}
+  ngOnInit(): void {
+    this.messagingService.requestPermission();
+    this.messagingService.listen();
+  }
+}
