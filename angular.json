@@ -20,9 +20,13 @@
             ],
             "tsConfig": "tsconfig.app.json",
             "assets": [
+              "src/favicon.ico",
+              "src/assets",
+              "src/manifest.webmanifest",
               {
                 "glob": "**/*",
-                "input": "public"
+                "input": "node_modules/@angular/fire/messaging",
+                "output": "/"
               }
             ],
             "styles": [

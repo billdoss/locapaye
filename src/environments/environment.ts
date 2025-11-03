@@ -8,6 +8,7 @@ export const environment = {
     storageBucket: "billdb-ed1c5.firebasestorage.app",
     messagingSenderId: "1015027202177",
     appId: "1:1015027202177:web:b7ae44b371301b4e2cb580",
-    measurementId: "G-L93N0HX7JW"
+    measurementId: "G-L93N0HX7JW",
+    web_push_key: "BBSYVqVm5z1wEV2R2OIIJPmvpGGbQdyNu6hVRPRmhrvd7lVK3MkmjPI2AvKrpM7cnCLyY7ZtuDXLYTClVvUKcjg"
   }
 };
